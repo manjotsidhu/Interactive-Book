@@ -22,6 +22,6 @@
   },
   "front_matter_defaults": {
   },
-  "http_url": "https://{deployed_host}/docs/seq-design/race-conditions.html",
-  "api_url": "https://{deployed_host}/_api/pages/docs/seq-design/race-conditions.md"
+  "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-design/race-conditions.html",
+  "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design/race-conditions.md"
 }

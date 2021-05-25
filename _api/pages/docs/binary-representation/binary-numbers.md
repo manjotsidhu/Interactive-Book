@@ -22,6 +22,6 @@
   },
   "front_matter_defaults": {
   },
-  "http_url": "https://{deployed_host}/docs/binary-representation/binary-numbers.html",
-  "api_url": "https://{deployed_host}/_api/pages/docs/binary-representation/binary-numbers.md"
+  "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-representation/binary-numbers.html",
+  "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation/binary-numbers.md"
 }

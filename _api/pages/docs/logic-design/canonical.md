@@ -22,6 +22,6 @@
   },
   "front_matter_defaults": {
   },
-  "http_url": "https://{deployed_host}/docs/logic-design/canonical.html",
-  "api_url": "https://{deployed_host}/_api/pages/docs/logic-design/canonical.md"
+  "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/logic-design/canonical.html",
+  "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design/canonical.md"
 }

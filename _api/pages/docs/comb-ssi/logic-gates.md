@@ -22,6 +22,6 @@
   },
   "front_matter_defaults": {
   },
-  "http_url": "https://{deployed_host}/docs/comb-ssi/logic-gates.html",
-  "api_url": "https://{deployed_host}/_api/pages/docs/comb-ssi/logic-gates.md"
+  "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-ssi/logic-gates.html",
+  "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-ssi/logic-gates.md"
 }

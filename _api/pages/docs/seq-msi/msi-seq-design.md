@@ -22,6 +22,6 @@
   },
   "front_matter_defaults": {
   },
-  "http_url": "https://{deployed_host}/docs/seq-msi/msi-seq-design.html",
-  "api_url": "https://{deployed_host}/_api/pages/docs/seq-msi/msi-seq-design.md"
+  "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/msi-seq-design.html",
+  "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi/msi-seq-design.md"
 }

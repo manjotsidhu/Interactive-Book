@@ -11,8 +11,8 @@
     "has_children": false,
     "dir": "/docs/seq-ssi/",
     "url": "/docs/seq-ssi/clock-signals.html",
-    "http_url": "https://{deployed_host}/docs/seq-ssi/clock-signals.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-ssi.json/clock-signals.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-ssi/clock-signals.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-ssi.json/clock-signals.md"
   },
   {
     "name": "flip-flops.md",
@@ -26,8 +26,8 @@
     "has_children": false,
     "dir": "/docs/seq-ssi/",
     "url": "/docs/seq-ssi/flip-flops.html",
-    "http_url": "https://{deployed_host}/docs/seq-ssi/flip-flops.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-ssi.json/flip-flops.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-ssi/flip-flops.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-ssi.json/flip-flops.md"
   },
   {
     "name": "index.md",
@@ -40,8 +40,8 @@
     "has_toc": false,
     "dir": "/docs/seq-ssi/",
     "url": "/docs/seq-ssi/",
-    "http_url": "https://{deployed_host}/docs/seq-ssi/",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-ssi.json/index.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-ssi/",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-ssi.json/index.md"
   },
   {
     "name": "latches.md",
@@ -55,7 +55,7 @@
     "has_children": false,
     "dir": "/docs/seq-ssi/",
     "url": "/docs/seq-ssi/latches.html",
-    "http_url": "https://{deployed_host}/docs/seq-ssi/latches.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-ssi.json/latches.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-ssi/latches.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-ssi.json/latches.md"
   }
 ]

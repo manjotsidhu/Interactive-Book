@@ -22,6 +22,6 @@
   },
   "front_matter_defaults": {
   },
-  "http_url": "https://{deployed_host}/docs/binary-algebra/ieee-std-754.html",
-  "api_url": "https://{deployed_host}/_api/pages/docs/binary-algebra/ieee-std-754.md"
+  "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/ieee-std-754.html",
+  "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/ieee-std-754.md"
 }

@@ -22,6 +22,6 @@
   },
   "front_matter_defaults": {
   },
-  "http_url": "https://{deployed_host}/docs/comb-msi/mux-functions.html",
-  "api_url": "https://{deployed_host}/_api/pages/docs/comb-msi/mux-functions.md"
+  "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/mux-functions.html",
+  "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi/mux-functions.md"
 }

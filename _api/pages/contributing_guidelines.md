@@ -20,6 +20,6 @@
   },
   "front_matter_defaults": {
   },
-  "http_url": "https://{deployed_host}/contributing_guidelines.html",
-  "api_url": "https://{deployed_host}/_api/pages/contributing_guidelines.md"
+  "http_url": "https://manjotsidhu.github.io/Interactive-Book/contributing_guidelines.html",
+  "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/contributing_guidelines.md"
 }

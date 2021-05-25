@@ -11,8 +11,8 @@
     "has_children": false,
     "dir": "/docs/seq-lsi/",
     "url": "/docs/seq-lsi/fpga.html",
-    "http_url": "https://{deployed_host}/docs/seq-lsi/fpga.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-lsi.json/fpga.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-lsi/fpga.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi.json/fpga.md"
   },
   {
     "name": "index.md",
@@ -25,8 +25,8 @@
     "has_toc": false,
     "dir": "/docs/seq-lsi/",
     "url": "/docs/seq-lsi/",
-    "http_url": "https://{deployed_host}/docs/seq-lsi/",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-lsi.json/index.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-lsi/",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi.json/index.md"
   },
   {
     "name": "microprocessors.md",
@@ -40,8 +40,8 @@
     "has_children": false,
     "dir": "/docs/seq-lsi/",
     "url": "/docs/seq-lsi/microprocessors.html",
-    "http_url": "https://{deployed_host}/docs/seq-lsi/microprocessors.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-lsi.json/microprocessors.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-lsi/microprocessors.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi.json/microprocessors.md"
   },
   {
     "name": "rom-microcontrollers.md",
@@ -55,7 +55,7 @@
     "has_children": false,
     "dir": "/docs/seq-lsi/",
     "url": "/docs/seq-lsi/rom-microcontrollers.html",
-    "http_url": "https://{deployed_host}/docs/seq-lsi/rom-microcontrollers.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-lsi.json/rom-microcontrollers.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-lsi/rom-microcontrollers.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi.json/rom-microcontrollers.md"
   }
 ]

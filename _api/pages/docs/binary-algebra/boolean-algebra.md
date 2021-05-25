@@ -22,6 +22,6 @@
   },
   "front_matter_defaults": {
   },
-  "http_url": "https://{deployed_host}/docs/binary-algebra/boolean-algebra.html",
-  "api_url": "https://{deployed_host}/_api/pages/docs/binary-algebra/boolean-algebra.md"
+  "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/boolean-algebra.html",
+  "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/boolean-algebra.md"
 }

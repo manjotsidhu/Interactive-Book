@@ -11,8 +11,8 @@
     "has_children": false,
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/adders.html",
-    "http_url": "https://{deployed_host}/docs/comb-msi/adders.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/comb-msi.json/adders.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/adders.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/adders.md"
   },
   {
     "name": "encoders-decoders.md",
@@ -26,8 +26,8 @@
     "has_children": false,
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/encoders-decoders.html",
-    "http_url": "https://{deployed_host}/docs/comb-msi/encoders-decoders.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/comb-msi.json/encoders-decoders.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/encoders-decoders.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/encoders-decoders.md"
   },
   {
     "name": "index.md",
@@ -40,8 +40,8 @@
     "has_toc": false,
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/",
-    "http_url": "https://{deployed_host}/docs/comb-msi/",
-    "api_url": "https://{deployed_host}/_api/pages/docs/comb-msi.json/index.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/index.md"
   },
   {
     "name": "mux-demux.md",
@@ -55,8 +55,8 @@
     "has_children": false,
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/mux-demux.html",
-    "http_url": "https://{deployed_host}/docs/comb-msi/mux-demux.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/comb-msi.json/mux-demux.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/mux-demux.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/mux-demux.md"
   },
   {
     "name": "mux-functions.md",
@@ -70,7 +70,7 @@
     "has_children": false,
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/mux-functions.html",
-    "http_url": "https://{deployed_host}/docs/comb-msi/mux-functions.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/comb-msi.json/mux-functions.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/mux-functions.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/mux-functions.md"
   }
 ]

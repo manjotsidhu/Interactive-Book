@@ -11,8 +11,8 @@
     "has_children": false,
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/counters.html",
-    "http_url": "https://{deployed_host}/docs/seq-msi/counters.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-msi.json/counters.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/counters.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/counters.md"
   },
   {
     "name": "index.md",
@@ -25,8 +25,8 @@
     "has_toc": false,
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/",
-    "http_url": "https://{deployed_host}/docs/seq-msi/",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-msi.json/index.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/index.md"
   },
   {
     "name": "msi-seq-design.md",
@@ -40,8 +40,8 @@
     "has_children": false,
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/msi-seq-design.html",
-    "http_url": "https://{deployed_host}/docs/seq-msi/msi-seq-design.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-msi.json/msi-seq-design.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/msi-seq-design.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/msi-seq-design.md"
   },
   {
     "name": "mult-div.md",
@@ -55,8 +55,8 @@
     "has_children": false,
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/mult-div.html",
-    "http_url": "https://{deployed_host}/docs/seq-msi/mult-div.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-msi.json/mult-div.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/mult-div.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/mult-div.md"
   },
   {
     "name": "registers.md",
@@ -70,7 +70,7 @@
     "has_children": false,
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/registers.html",
-    "http_url": "https://{deployed_host}/docs/seq-msi/registers.html",
-    "api_url": "https://{deployed_host}/_api/pages/docs/seq-msi.json/registers.md"
+    "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/registers.html",
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/registers.md"
   }
 ]
