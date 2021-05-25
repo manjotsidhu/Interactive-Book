@@ -12,7 +12,7 @@
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/counters.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/counters.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/counters.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi/counters.md"
   },
   {
     "name": "index.md",
@@ -26,7 +26,7 @@
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/index.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi/index.md"
   },
   {
     "name": "msi-seq-design.md",
@@ -41,7 +41,7 @@
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/msi-seq-design.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/msi-seq-design.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/msi-seq-design.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi/msi-seq-design.md"
   },
   {
     "name": "mult-div.md",
@@ -56,7 +56,7 @@
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/mult-div.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/mult-div.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/mult-div.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi/mult-div.md"
   },
   {
     "name": "registers.md",
@@ -71,6 +71,6 @@
     "dir": "/docs/seq-msi/",
     "url": "/docs/seq-msi/registers.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-msi/registers.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi.json/registers.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-msi/registers.md"
   }
 ]

@@ -12,7 +12,7 @@
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/adders.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/adders.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/adders.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi/adders.md"
   },
   {
     "name": "encoders-decoders.md",
@@ -27,7 +27,7 @@
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/encoders-decoders.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/encoders-decoders.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/encoders-decoders.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi/encoders-decoders.md"
   },
   {
     "name": "index.md",
@@ -41,7 +41,7 @@
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/index.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi/index.md"
   },
   {
     "name": "mux-demux.md",
@@ -56,7 +56,7 @@
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/mux-demux.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/mux-demux.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/mux-demux.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi/mux-demux.md"
   },
   {
     "name": "mux-functions.md",
@@ -71,6 +71,6 @@
     "dir": "/docs/comb-msi/",
     "url": "/docs/comb-msi/mux-functions.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-msi/mux-functions.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi.json/mux-functions.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-msi/mux-functions.md"
   }
 ]

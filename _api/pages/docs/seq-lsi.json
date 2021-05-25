@@ -12,7 +12,7 @@
     "dir": "/docs/seq-lsi/",
     "url": "/docs/seq-lsi/fpga.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-lsi/fpga.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi.json/fpga.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi/fpga.md"
   },
   {
     "name": "index.md",
@@ -26,7 +26,7 @@
     "dir": "/docs/seq-lsi/",
     "url": "/docs/seq-lsi/",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-lsi/",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi.json/index.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi/index.md"
   },
   {
     "name": "microprocessors.md",
@@ -41,7 +41,7 @@
     "dir": "/docs/seq-lsi/",
     "url": "/docs/seq-lsi/microprocessors.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-lsi/microprocessors.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi.json/microprocessors.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi/microprocessors.md"
   },
   {
     "name": "rom-microcontrollers.md",
@@ -56,6 +56,6 @@
     "dir": "/docs/seq-lsi/",
     "url": "/docs/seq-lsi/rom-microcontrollers.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-lsi/rom-microcontrollers.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi.json/rom-microcontrollers.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-lsi/rom-microcontrollers.md"
   }
 ]

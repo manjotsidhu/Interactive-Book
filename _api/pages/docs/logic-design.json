@@ -12,7 +12,7 @@
     "dir": "/docs/logic-design/",
     "url": "/docs/logic-design/binary-cubes.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/logic-design/binary-cubes.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design.json/binary-cubes.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design/binary-cubes.md"
   },
   {
     "name": "canonical.md",
@@ -27,7 +27,7 @@
     "dir": "/docs/logic-design/",
     "url": "/docs/logic-design/canonical.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/logic-design/canonical.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design.json/canonical.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design/canonical.md"
   },
   {
     "name": "functional-description.md",
@@ -42,7 +42,7 @@
     "dir": "/docs/logic-design/",
     "url": "/docs/logic-design/functional-description.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/logic-design/functional-description.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design.json/functional-description.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design/functional-description.md"
   },
   {
     "name": "implementation.md",
@@ -57,7 +57,7 @@
     "dir": "/docs/logic-design/",
     "url": "/docs/logic-design/implementation.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/logic-design/implementation.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design.json/implementation.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design/implementation.md"
   },
   {
     "name": "index.md",
@@ -71,7 +71,7 @@
     "dir": "/docs/logic-design/",
     "url": "/docs/logic-design/",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/logic-design/",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design.json/index.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design/index.md"
   },
   {
     "name": "kmaps.md",
@@ -86,7 +86,7 @@
     "dir": "/docs/logic-design/",
     "url": "/docs/logic-design/kmaps.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/logic-design/kmaps.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design.json/kmaps.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design/kmaps.md"
   },
   {
     "name": "mev.md",
@@ -101,7 +101,7 @@
     "dir": "/docs/logic-design/",
     "url": "/docs/logic-design/mev.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/logic-design/mev.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design.json/mev.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design/mev.md"
   },
   {
     "name": "qmc.md",
@@ -116,6 +116,6 @@
     "dir": "/docs/logic-design/",
     "url": "/docs/logic-design/qmc.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/logic-design/qmc.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design.json/qmc.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/logic-design/qmc.md"
   }
 ]

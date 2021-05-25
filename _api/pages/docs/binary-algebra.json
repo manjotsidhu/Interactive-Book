@@ -12,7 +12,7 @@
     "dir": "/docs/binary-algebra/",
     "url": "/docs/binary-algebra/addition.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/addition.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra.json/addition.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/addition.md"
   },
   {
     "name": "boolean-algebra.md",
@@ -27,7 +27,7 @@
     "dir": "/docs/binary-algebra/",
     "url": "/docs/binary-algebra/boolean-algebra.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/boolean-algebra.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra.json/boolean-algebra.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/boolean-algebra.md"
   },
   {
     "name": "boolean-functions.md",
@@ -42,7 +42,7 @@
     "dir": "/docs/binary-algebra/",
     "url": "/docs/binary-algebra/boolean-functions.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/boolean-functions.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra.json/boolean-functions.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/boolean-functions.md"
   },
   {
     "name": "division.md",
@@ -57,7 +57,7 @@
     "dir": "/docs/binary-algebra/",
     "url": "/docs/binary-algebra/division.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/division.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra.json/division.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/division.md"
   },
   {
     "name": "ieee-std-754.md",
@@ -72,7 +72,7 @@
     "dir": "/docs/binary-algebra/",
     "url": "/docs/binary-algebra/ieee-std-754.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/ieee-std-754.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra.json/ieee-std-754.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/ieee-std-754.md"
   },
   {
     "name": "index.md",
@@ -86,7 +86,7 @@
     "dir": "/docs/binary-algebra/",
     "url": "/docs/binary-algebra/",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra.json/index.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/index.md"
   },
   {
     "name": "multiplication.md",
@@ -101,7 +101,7 @@
     "dir": "/docs/binary-algebra/",
     "url": "/docs/binary-algebra/multiplication.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/multiplication.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra.json/multiplication.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/multiplication.md"
   },
   {
     "name": "shannon.md",
@@ -116,7 +116,7 @@
     "dir": "/docs/binary-algebra/",
     "url": "/docs/binary-algebra/shannon.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/shannon.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra.json/shannon.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/shannon.md"
   },
   {
     "name": "subtraction.md",
@@ -131,6 +131,6 @@
     "dir": "/docs/binary-algebra/",
     "url": "/docs/binary-algebra/subtraction.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-algebra/subtraction.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra.json/subtraction.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-algebra/subtraction.md"
   }
 ]

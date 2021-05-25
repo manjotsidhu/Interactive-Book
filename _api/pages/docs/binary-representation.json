@@ -12,7 +12,7 @@
     "dir": "/docs/binary-representation/",
     "url": "/docs/binary-representation/binary-numbers.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-representation/binary-numbers.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation.json/binary-numbers.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation/binary-numbers.md"
   },
   {
     "name": "discrete-quantities.md",
@@ -27,7 +27,7 @@
     "dir": "/docs/binary-representation/",
     "url": "/docs/binary-representation/discrete-quantities.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-representation/discrete-quantities.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation.json/discrete-quantities.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation/discrete-quantities.md"
   },
   {
     "name": "encoding-information.md",
@@ -42,7 +42,7 @@
     "dir": "/docs/binary-representation/",
     "url": "/docs/binary-representation/encoding-information.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-representation/encoding-information.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation.json/encoding-information.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation/encoding-information.md"
   },
   {
     "name": "index.md",
@@ -56,7 +56,7 @@
     "dir": "/docs/binary-representation/",
     "url": "/docs/binary-representation/",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-representation/",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation.json/index.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation/index.md"
   },
   {
     "name": "negative-quantities.md",
@@ -71,7 +71,7 @@
     "dir": "/docs/binary-representation/",
     "url": "/docs/binary-representation/negative-quantities.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-representation/negative-quantities.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation.json/negative-quantities.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation/negative-quantities.md"
   },
   {
     "name": "number-bases.md",
@@ -86,6 +86,6 @@
     "dir": "/docs/binary-representation/",
     "url": "/docs/binary-representation/number-bases.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/binary-representation/number-bases.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation.json/number-bases.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/binary-representation/number-bases.md"
   }
 ]

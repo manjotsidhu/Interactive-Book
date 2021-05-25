@@ -3,10 +3,10 @@
     "name": "docs",
     "path": "docs",
     "relative_path": "docs",
-    "modified_time": "2021-05-25 13:21:35 +0000",
+    "modified_time": "2021-05-25 13:25:12 +0000",
     "type": "directory",
     "http_url": null,
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages.json/docs"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs"
   },
   {
     "name": "404.html",
@@ -17,7 +17,7 @@
     "dir": "/",
     "url": "/404.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/404.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages.json/404.html"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/404.html"
   },
   {
     "name": "about.md",
@@ -31,7 +31,7 @@
     "dir": "/",
     "url": "/about.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/about.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages.json/about.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/about.md"
   },
   {
     "name": "contributing_guidelines.md",
@@ -45,7 +45,7 @@
     "dir": "/",
     "url": "/contributing_guidelines.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/contributing_guidelines.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages.json/contributing_guidelines.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/contributing_guidelines.md"
   },
   {
     "name": "index.md",
@@ -59,6 +59,6 @@
     "dir": "/",
     "url": "/",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages.json/index.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/index.md"
   }
 ]

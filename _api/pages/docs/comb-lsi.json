@@ -12,7 +12,7 @@
     "dir": "/docs/comb-lsi/",
     "url": "/docs/comb-lsi/alu.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-lsi/alu.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-lsi.json/alu.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-lsi/alu.md"
   },
   {
     "name": "index.md",
@@ -26,7 +26,7 @@
     "dir": "/docs/comb-lsi/",
     "url": "/docs/comb-lsi/",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-lsi/",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-lsi.json/index.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-lsi/index.md"
   },
   {
     "name": "rom.md",
@@ -41,6 +41,6 @@
     "dir": "/docs/comb-lsi/",
     "url": "/docs/comb-lsi/rom.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/comb-lsi/rom.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-lsi.json/rom.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/comb-lsi/rom.md"
   }
 ]

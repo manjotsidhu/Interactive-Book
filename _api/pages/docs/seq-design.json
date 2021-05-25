@@ -12,7 +12,7 @@
     "dir": "/docs/seq-design/",
     "url": "/docs/seq-design/flow-diagrams.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-design/flow-diagrams.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design.json/flow-diagrams.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design/flow-diagrams.md"
   },
   {
     "name": "fsm.md",
@@ -27,7 +27,7 @@
     "dir": "/docs/seq-design/",
     "url": "/docs/seq-design/fsm.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-design/fsm.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design.json/fsm.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design/fsm.md"
   },
   {
     "name": "index.md",
@@ -41,7 +41,7 @@
     "dir": "/docs/seq-design/",
     "url": "/docs/seq-design/",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-design/",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design.json/index.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design/index.md"
   },
   {
     "name": "mds.md",
@@ -56,7 +56,7 @@
     "dir": "/docs/seq-design/",
     "url": "/docs/seq-design/mds.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-design/mds.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design.json/mds.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design/mds.md"
   },
   {
     "name": "race-conditions.md",
@@ -71,7 +71,7 @@
     "dir": "/docs/seq-design/",
     "url": "/docs/seq-design/race-conditions.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-design/race-conditions.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design.json/race-conditions.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design/race-conditions.md"
   },
   {
     "name": "seq-synth.md",
@@ -86,6 +86,6 @@
     "dir": "/docs/seq-design/",
     "url": "/docs/seq-design/seq-synth.html",
     "http_url": "https://manjotsidhu.github.io/Interactive-Book/docs/seq-design/seq-synth.html",
-    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design.json/seq-synth.md"
+    "api_url": "https://manjotsidhu.github.io/Interactive-Book/_api/pages/docs/seq-design/seq-synth.md"
   }
 ]
